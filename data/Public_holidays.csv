@@ -1,0 +1,348 @@
+﻿dateType,name,important_date,publisher,description,source
+PUBLIC_HOLIDAY,New years day,2019-01-01,Small Business Victoria,Updated annually,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Australia day,2019-01-28,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Labour day,2019-03-11,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Good Friday,2019-04-19,Small Business Victoria,restricted trading day,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Saturday before Easter Sunday,2019-04-20,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Easter Sunday,2019-04-21,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Easter Monday,2019-04-22,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,ANZAC Day,2019-04-25,Small Business Victoria,restricted trading day (until 1.00pm),http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Queens Birthday,2019-06-10,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Friday before the AFL grand final,2019-09-28,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Melbourne Cup day,2019-11-05,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Christmas day,2019-12-25,Small Business Victoria,restricted trading day,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+PUBLIC_HOLIDAY,Boxing day,2019-12-26,Small Business Victoria,,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/victorian-public-holidays
+DAYLIGHT_SAVING,Daylight Savings Starts,2018-10-07,Small Business Victoria,Always starts the first weekend in October and ends the First weekend in April,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/daylight-saving
+DAYLIGHT_SAVING,Daylight Savings Ends,2019-04-07,Small Business Victoria,Always starts the first weekend in October and ends the First weekend in April,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/daylight-saving
+DAYLIGHT_SAVING,Daylight Savings Starts,2019-10-06,Small Business Victoria,Always starts the first weekend in October and ends the First weekend in April,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/daylight-saving
+DAYLIGHT_SAVING,Daylight Savings Ends,2020-04-05,Small Business Victoria,Always starts the first weekend in October and ends the First weekend in April,http://www.business.vic.gov.au/victorian-public-holidays-and-daylight-saving/daylight-saving
+SCHOOL_TERM, Term 1 2019 -Start date,2019-01-30,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 1 2019 -End date,2019-04-05,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 2 2019 - Start date,2019-04-23,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 2 2019 - End date,2019-06-28,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 3 2019 - Start date,2019-07-15,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 3 2019-End date,2019-09-20,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 4 2019 -Start date,2019-10-07,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_TERM,Term 4 2019-End date,2019-12-20,Department of Education,Term dates are published up until 2025,https://www.education.vic.gov.au/about/department/Pages/datesterm.aspx
+SCHOOL_HOLIDAY,Term 1 2019 Holiday start date,2019-04-08,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 1 2019 Holiday end date,2019-04-19,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term2 2019 Holiday start date,2019-07-01,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 2 2019 - Holiday end date,2019-07-12,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 3 2019 - Holiday start date,2019-09-23,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 3- 2019-Holiday end date,2019-10-04,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 4 2019 - Holiday start date,2019-12-23,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+SCHOOL_HOLIDAY,Term 4  2019 Holiday end date,2020-01-28,No Source  - Generated,There is no formal source for these but they are the inbetween of the dates above,
+FLAG_NOTIFICATION,Anniversary of Bourke Street (Half Mast),2019-01-20,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Australia day (Australian Flag),2018-01-26,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,2009 Bushfires (Half mast),2018-02-07,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Anniversary of Apology to Stolen Generations (Aboriginal and Torres Strait Island Flag),2018-02-13,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Commonwealth Day (Australian Flag),2019-03-11,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,ANZAC day (Half mast),2018-04-25,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,National sorry day Aboriginal and Torres Strait Island Flag,2018-05-26,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Queens birthday (Australian flag),2018-06-11,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Australian National flag day (Australian flag,2018-09-03,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Citizenship day (Australian flag),2018-09-17,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,United Nations day (UN flag replaces Australian flag),2018-10-24,Strategic Communications and Protocol,Provided by the Protocol team,
+FLAG_NOTIFICATION,Remembrance day (Half Mast),2018-11-11,Strategic Communications and Protocol,Provided by the Protocol team,
+PARLIAMENT_SITTING,Both Houses sitting,2019-02-05,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-02-06,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-02-19,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-02-20,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-02-21,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-05,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-06,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-07,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-19,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-20,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-03-21,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-04-30,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-07,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-08,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-09,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-21,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-22,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-05-23,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-04,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-05,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-06,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-18,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-19,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-06-20,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-13,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-14,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-15,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-08-16,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-27,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-28,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-08-29,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-08-30,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-09-10,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-09-11,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-09-12,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-09-13,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-15,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-16,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-17,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-10-18,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-29,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-30,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-10-31,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-11-01,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-12,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-13,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-14,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-11-15,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-26,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-27,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Both Houses sitting,2019-11-28,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+PARLIAMENT_SITTING,Legislative council only,2019-11-29,Parliament,,https://www.parliament.vic.gov.au/about/daily-calendar/yearly-sitting-dates
+MULTI_FAITH,Birthday of Guru Gobind Singh Ji,2019-01-05,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Epiphany,2019-01-06,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Nativity (Orthodox),2019-01-07,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Maghi,2019-01-14,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Mahayana New Year,2019-01-21,Faith Communities Council of Victoria,21-23 January 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Mahayana New Year,2019-01-22,Faith Communities Council of Victoria,21-23 January 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Mahayana New Year,2019-01-23,Faith Communities Council of Victoria,21-23 January 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Chinese New Year,2019-02-05,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Nirvana Day,2019-02-15,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,MahaShivaratri,2019-03-04,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ash Wednesday,2019-03-06,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-06,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-07,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-08,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-09,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-10,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-11,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-12,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-13,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-14,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-15,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-16,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-17,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-18,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-19,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-20,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-21,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-22,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-23,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-24,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-25,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-26,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-27,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-28,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-29,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-30,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-03-31,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-01,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-02,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-03,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-04,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-05,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-06,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-07,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-08,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-09,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-10,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-11,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-12,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-13,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-14,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-15,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-16,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-17,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lent,2019-04-18,Faith Communities Council of Victoria,6 March 2019 - 18 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-11,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-12,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-13,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-14,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-15,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-16,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-17,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-18,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-19,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-20,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-21,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-22,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-23,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-24,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-25,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-26,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-27,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-28,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-29,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-30,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-03-31,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-01,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-02,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-03,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-04,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-05,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-06,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-07,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-08,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-09,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-10,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-11,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-12,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-13,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-14,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-15,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-16,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-17,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-18,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Great lent (Orthodox),2019-04-19,Faith Communities Council of Victoria,11 March 2019-19 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Purim,2019-03-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holi,2019-03-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hola Mohalla,2019-03-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,New Ruz,2019-03-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lailat al Miraj,2019-04-03,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-14,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-15,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-16,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-17,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-18,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-19,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Holy Week,2019-04-20,Faith Communities Council of Victoria,14-20 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Rama Navami,2019-04-14,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Baisakhi ,2019-04-14,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Theravada New Year ,2019-04-19,Faith Communities Council of Victoria,19-21 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Theravada New Year ,2019-04-20,Faith Communities Council of Victoria,19-21 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Theravada New Year ,2019-04-21,Faith Communities Council of Victoria,19-21 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Good/Holy Friday,2019-04-19,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-20,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-21,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-22,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-23,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-24,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-25,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-26,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pesach,2019-04-27,Faith Communities Council of Victoria,20-27 April 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lailat al Bara'ah,2019-04-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-21,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-22,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-23,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-24,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-25,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-26,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-27,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-28,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-29,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-04-30,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-05-01,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ridvan,2019-05-02,Faith Communities Council of Victoria,21 April - 2 May 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Easter,2019-04-21,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Easter/Pascha [Orthodox] ,2019-04-28,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Yom HaShoah,2019-05-02,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-06,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-07,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-08,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-09,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-10,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-11,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-12,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-13,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-14,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-15,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-16,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-17,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-18,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-19,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-20,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-21,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-22,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-23,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-24,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-25,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-26,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-27,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-28,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-29,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-30,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-05-31,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-06-01,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-06-02,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-06-03,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ramadan,2019-06-04,Faith Communities Council of Victoria,6 May -4 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Vesak / Buddha Day,2019-05-19,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Declaration of the Bab,2019-05-24,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ascension of Baha'ullah,2019-05-29,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Lailat al Qadr,2019-06-01,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid ul Fitr,2019-06-05,Faith Communities Council of Victoria,5-7 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid ul Fitr,2019-06-06,Faith Communities Council of Victoria,5-7 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid ul Fitr,2019-06-07,Faith Communities Council of Victoria,5-7 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Shavuot,2019-06-09,Faith Communities Council of Victoria,9-10 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Shavuot,2019-06-10,Faith Communities Council of Victoria,9-10 June 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Pentecost ,2019-06-09,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Martyrdom of Guru Arjun Dev Ji ,2019-06-16,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Martyrdom of the Bab,2019-07-10,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ashala Puja / Dharma Day,2019-07-16,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Tisha B'Av,2019-08-11,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid Al Adha,2019-08-12,Faith Communities Council of Victoria,12-15 August 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid Al Adha,2019-08-13,Faith Communities Council of Victoria,12-15 August 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid Al Adha,2019-08-14,Faith Communities Council of Victoria,12-15 August 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Eid Al Adha,2019-08-15,Faith Communities Council of Victoria,12-15 August 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Assumption of the Blessed Virgin Mary,2019-08-15,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Raksha Bandhan,2019-08-15,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Krishna Janmashtami,2019-08-23,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hijra,2019-08-31,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Ganesh Chaturthi,2019-09-02,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-09-29,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-09-30,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-01,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-02,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-03,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-04,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-05,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-06,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Navaratri,2019-10-07,Faith Communities Council of Victoria,29 September - 7 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Dussehra,2019-10-08,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Yom Kippur,2019-10-09,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-14,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-15,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-16,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-17,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-18,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Sukkot,2019-10-19,Faith Communities Council of Victoria,14-20 October 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Conferment of Guruship to Guru Granth Sahib,2019-10-20,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Simchat Torah,2019-10-22,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Diwali,2019-10-27,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Bandi Chhor Divas (Diwali),2019-10-27,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Birth of Bab,2019-10-29,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Birth of Bah'ullah,2019-10-30,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,All Saints day,2019-11-01,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Birth of Guru Nanake Dev Sahib Ji,2019-11-12,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Martyrdom of Guru Tegh Bahadur Ji,2019-11-24,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-01,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-02,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-03,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-04,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-05,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-06,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-07,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-08,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-09,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-10,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-11,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-12,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-13,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-14,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-15,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-16,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-17,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-18,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-19,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-20,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-21,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-22,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-23,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Advent,2019-12-24,Faith Communities Council of Victoria,1-24 Dec 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Bodhi,2019-12-08,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-23,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-24,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-25,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-26,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-27,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-28,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-29,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Hanukkah,2019-12-30,Faith Communities Council of Victoria,23-30 December 2019,http://www.faithvictoria.org.au/calendar
+MULTI_FAITH,Christmas,2019-12-25,Faith Communities Council of Victoria,,http://www.faithvictoria.org.au/calendar
