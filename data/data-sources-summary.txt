@@ -1,0 +1,51 @@
+Data sets relevant to road trauma and crashes
+
+Digital Twin - traffic lights:
+https://digitaltwin.vic.gov.au/public/?utm_source=DataVic&utm_medium=datarecordwebpage+&utm_campaign=DataVicDTVlink#https://discover.data.vic.gov.au/dtv_config/WyJhYTQzYmUwNS03ZjVmLTQ5ZTEtODg4Zi04YTZkMmIzYTJhZWEiXQ%3D%3D/config.json
+
+2024/25 Black Spot data PDF: 
+https://investment.infrastructure.gov.au/sites/default/files/documents/bsp-2024-25-victoria.pdf
+
+== Related Data Areas == 
+
+= Wombats/Wildlife Risk =
+
+[Melbourne] Wildlife sightings https://discover.data.vic.gov.au/dataset/wildlife-sightings-bioblitz-2014
+
+
+
+
+= Seatbelts = 
+
+
+
+= Dangerous Intersections? = 
+
+
+
+= visibility e.g. sunrise sunset, dust? =  
+
+
+
+= Mental Health / Intentional Crashes =
+
+
+
+= sleep deprivation / fatigue =
+
+= Mapping data = 
+[NT] 
+https://data.nt.gov.au/dataset/natural-resource-maps---nt-parks-and-reserves
+
+National Bushfire Boundaries [interactive map, booo] 
+https://digital.atlas.gov.au/pages/8b124790a8f54ccd9b3288288e21cfd2
+
+
+"Administrative Boundaries" (interactive?)
+https://digital.atlas.gov.au/pages/d9f8ef759c6c4594bd4026c3eadb2105
+
+Land Borders (interstate boundaries): 
+https://digital.atlas.gov.au/datasets/0ab7e1bfa65b43abb616f5465a85749f_2/explore?location=-25.092728%2C141.275000%2C4.98
+
+# of cars per dwelling dataset: 
+https://digital.atlas.gov.au/datasets/5b98b8c9ba214075b5d50dd9290f12ff_0/explore?location=-23.499014%2C-47.592512%2C4.47
