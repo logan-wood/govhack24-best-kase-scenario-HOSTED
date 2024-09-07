@@ -16,20 +16,35 @@
 
     <nav>
 
-        <h3>Hailo</h3>
-        <h4>Smart Insights for Safer Roads</h4>
+        <h3 class="logo">Hailo</h3>
+        <h4 class="slogan">Smart Insights for Safer Roads</h4>
 
     </nav>
 </header>
 
-<div class="drop-down-closed">
-    <img src="frontend\down.svg" alt="drop-down-button">
-</div>
-
-<div class="drop-down-open">
-</div>
+<div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn">Dropdown</button>
+    <div id="myDropdown" class="dropdown-content">
+      <a href="#">Time</a>
+      <a href="#">Weather</a>
+      <a href="#">Animals</a>
+      <a href="#">Distance</a>
+      <a href="#">Alcohol</a>
+    </div>
+  </div>
 
 <iframe class="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d100972.80792736086!2d144.9298762966204!3d-37.733753355272505!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64631b7a17b37%3A0x4197bd7642226d72!2sBanyule%2C%20VIC!5e0!3m2!1sen!2sau!4v1725688669970!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="popup">
+    <button onclick="myFunction()" class="upbtn">Dropdown</button>
+    <div id="myPopUp" class="popup-content">
+      <a href="#">Suggestion 1</a>
+      <a href="#">Suggestion 2</a>
+      <a href="#">Suggestion 3</a>
+      <a href="#">Suggestion 4</a>
+    </div>
+  </div>
+
 
 <div class="ai-insights">
 
@@ -39,9 +54,14 @@
 </label>
 
 <div></div>
-<button>Submit</button>
+<button class="submit">Submit</button>
 
 </div>
 
 </body>
+
+<script src="index.js"></script>
+
 </html>
+
+
