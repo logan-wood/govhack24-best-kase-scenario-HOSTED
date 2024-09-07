@@ -6,6 +6,9 @@ https://digitaltwin.vic.gov.au/public/?utm_source=DataVic&utm_medium=datarecordw
 2024/25 Black Spot data PDF: 
 https://investment.infrastructure.gov.au/sites/default/files/documents/bsp-2024-25-victoria.pdf
 
+Public Holiday Data:
+https://discover.data.vic.gov.au/dataset/government-dates-api-data
+
 == Related Data Areas == 
 
 = Wombats/Wildlife Risk =
