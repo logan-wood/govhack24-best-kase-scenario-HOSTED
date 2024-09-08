@@ -27,9 +27,64 @@
     <button onclick="myFunction()" class="dropbtn"><img src="down.svg"></button>
     <div id="myDropdown" class="dropdown-content">
       <ul>
-        <li><a href="#">Driver Intention</a></li>
-        <li><a href="#">Weather Conditions</a></li>
-        <li><a href="#">Time of Day</a></li>
+        <li>
+          <a href="#">Driver Intention</a>
+
+          <div class="item">
+            <input for="turning-left" class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+          <div class="item">
+            <input for="turning-right" class="inline" type="checkbox">
+            <label class="label" for="turning-right">Turning Right</label>
+          </div>
+
+          <div class="item">
+            <input for="driving-straight" class="inline" type="checkbox">
+            <label class="label" for="driving-straight">Driving Straight</label>
+          </div>
+
+        </li>
+
+
+        <li><a href="#">Weather Conditions</a>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+        </li>
+
+        <li><a href="#">Time of Day</a>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Turning Left</label>
+          </div>
+
+          <div class="item">
+            <input class="inline" type="checkbox">
+            <label class="label" for="turning-left">Driving Straight</label>
+          </div>
+
+        </li>
   
       </ul>
     </div>
@@ -47,12 +102,12 @@
 
   <h4 class="demo">Select filters from the drop down to show Road Crash reports and create PDF with Ai generated insights with additional information. </h4>
 
-<label class="question" for="question">
+
     <div></div>
-<input  id="question" type="text" placeholder="Ask Chat GPT for insights tailored to results">
+<input class="question" id="question" type="text" placeholder="Ask Chat GPT for insights tailored to results">
 </label>
 
-<div></div>
+<br>
 <button class="submit">Export PDF</button>
 
 </div>
