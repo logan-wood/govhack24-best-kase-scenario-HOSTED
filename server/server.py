@@ -1,8 +1,8 @@
 from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
 import json
-from helper_functions import filter_by_coordinates
-from llm import generate_batch_report
+from .helper_functions import filter_by_coordinates
+from .llm import generate_batch_report
 
 
 app = Flask(__name__)
