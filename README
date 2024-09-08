@@ -1,1 +1,11 @@
-Initial commit just to get the ball rolling... 
+HAiLO crash data insights MACHINE
+
+Steps to run application:
+
+Install python.
+Install dependencies (flask, flask-cors, google-generativeai, dotenv, pandas).
+create a .env file in the root directory and add the gemini API key under GEMINI_API_KEY.
+run the server, located in AI/server.py.
+
+Open index.html in your favourite browser.
+
