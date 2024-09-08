@@ -20,6 +20,8 @@ async function onSearchButtonClick() {
     const data = await fetch(`${SERVER_DOMAIN}/getDataWithinBounds?lat_min=${bounds.getWest()}&lat_max=${bounds.getEast()}&lon_min=${bounds.getSouth()}&lon_max=${bounds.getNorth()}`)
     const dataPoints = await data.json()
 
+    localStorage.setItem("crashData", JSON.stringify(dataPoints));
+
     // Clear existing markers
     markers.forEach(marker => map.removeLayer(marker));
     markers = [];

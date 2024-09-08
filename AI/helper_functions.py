@@ -34,8 +34,6 @@ def filter_by_coordinates(lat_min, lat_max, lon_min, lon_max):
     print(f"length of data returned: {len(filtered_data)}")
 
     # for now, return 50
-    filtered_data = filtered_data.head(50)
+    filtered_data = filtered_data.head(10)
 
     return filtered_data
-
-filter_by_coordinates(145, 145.2, -40, -36) # example input
