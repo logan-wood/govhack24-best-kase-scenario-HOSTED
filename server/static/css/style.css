@@ -255,11 +255,11 @@ input[type=checkbox] {
   text-align: left;
 }
 
-.pdf  {
+.text-alt  {
   margin: 20px;
   font-size: 12px;
   opacity: 0.5;
-
+  text-align: center;
 }
 
 .loading  {

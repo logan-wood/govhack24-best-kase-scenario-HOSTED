@@ -94,21 +94,27 @@
   <div id="map">
   </div>
 
-<div class="ai-insights">
-    <div id="ai-response"></div>
-<br>
+  <div class="ai-insights">
+      <div id="ai-response"></div>
+    <br>
 
-<button class="submit" onclick="askGemini()">Get AI Report</button>
+    <button class="submit" onclick="askGemini()">Get AI Report</button>
 
 
 
-<button id="pdf" class="submit wip">Export PDF</button>
+    <button id="pdf" class="submit wip">Export PDF</button>
 
-<img id="loading" class="loading" src="{{ url_for('static', filename='loading.gif') }}">
-<br>
-<p  class="pdf">Please Note: Export PDF Function in Development. Response loads in browser for now.</p>
+    <img id="loading" class="loading" src="{{ url_for('static', filename='loading.gif') }}">
+    <br>
+    <p  class="text-alt">Please Note: Export PDF Function in Development. Response loads in browser for now.</p>
+    <br>
 
-</div>
+  </div>
+
+  <footer class="text-alt">
+    <p>Created by 'Best Käse Scenario' for GovHack 2024.</p>
+    <p>This version of this application is hosted for free, so please allow for some time for the server to spin up</p>
+  </footer>
 
   </body>
 
