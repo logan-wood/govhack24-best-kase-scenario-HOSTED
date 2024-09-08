@@ -23,4 +23,6 @@ async function askGemini() {
     })
 
     console.log(response)
+    const ai_response = await response.text();
+    document.getElementById('ai-response').innerText = ai_response
 }

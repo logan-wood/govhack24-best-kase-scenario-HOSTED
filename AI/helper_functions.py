@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-CSV_FILE_PATH = "../data/pyth_merged_file.csv"
+CSV_FILE_PATH = "data/pyth_merged_file.csv"
 
 def filter_by_coordinates(lat_min, lat_max, lon_min, lon_max):
     try:
