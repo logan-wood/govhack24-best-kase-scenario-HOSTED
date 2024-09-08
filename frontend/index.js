@@ -14,6 +14,9 @@ async function askGemini() {
         return
     }
 
+    document.getElementById('loading').style.display = "inline"
+
+
     const response = await fetch(`${SERVER_DOMAIN}/askGemini`, {
         method: 'POST',
         headers: {
@@ -25,4 +28,8 @@ async function askGemini() {
     console.log(response)
     const ai_response = await response.text();
     document.getElementById('ai-response').innerText = ai_response
+
+    document.getElementById('loading').style.display = "none"
+
+      document.getElementById('pdf').style.display = "inline"
 }
