@@ -1,6 +1,6 @@
-from flask import Flask, request, jsonify
-import json
+from flask import Flask, request, jsonify, render_template
 from flask_cors import CORS
+import json
 from helper_functions import filter_by_coordinates
 from llm import generate_batch_report
 
@@ -8,6 +8,10 @@ from llm import generate_batch_report
 app = Flask(__name__)
 
 CORS(app)
+
+@app.route('/', methods=['GET'])
+def index():
+    return render_template('index.html')
 
 @app.route('/getDataWithinBounds', methods=['GET'])
 def getDataWithinBounds():

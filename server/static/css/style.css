@@ -199,6 +199,9 @@ input[type=checkbox] {
 }
 
 .search {
+  position: absolute;
+  top: 100px;
+  right: 20px;
   color: white;
   background-color: #0466c8;
   width: 200px;
@@ -207,6 +210,7 @@ input[type=checkbox] {
   font-size: 18px;
   border: 1px solid white;
   cursor: pointer;
+  z-index: 100;
 }
 
 .search:hover  {

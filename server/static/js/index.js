@@ -31,5 +31,5 @@ async function askGemini() {
 
     document.getElementById('loading').style.display = "none"
 
-      document.getElementById('pdf').style.display = "inline"
+    document.getElementById('pdf').style.display = "inline"
 }

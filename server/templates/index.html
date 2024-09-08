@@ -4,27 +4,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hailo Safer Roads</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 </head>
 
 
 <body>
+  <header>
+      <nav>
+          <img src="{{ url_for('static', filename='HAILO_LOGO.PNG') }}" class="logo">
+          <h4 class="slogan">Smart Insights for Safer Roads</h4>
+      </nav>
+  </header>
 
-<header>
-
-
-
-    <nav>
-
-        <img src="HAILO_LOGO.PNG" class="logo">
-        <h4 class="slogan">Smart Insights for Safer Roads</h4>
-
-    </nav>
-</header>
-
-<div class="dropdown">
-    <button onclick="myFunction()" class="dropbtn"><img src="down.svg"></button>
+  <div class="dropdown">
+    <button onclick="myFunction()" class="dropbtn"><img src="{{ url_for('static', filename='down.svg') }}"></button>
     <div id="myDropdown" class="dropdown-content">
       <ul>
         <li>
@@ -86,22 +80,19 @@
 
         </li>
 
-        <button class="search" onclick="onSearchButtonClick()">Search this area</button>
   
       </ul>
 
       <div class="notes">
         <p>Please Note: Filtering system in development. Search area for All Results on map viewport.</p>
       </div>
-
-      
-
     </div>
   </div>
 
-  <div id="map"></div>
-  
-  
+  <button class="search" onclick="onSearchButtonClick()">Search this area</button>
+
+  <div id="map">
+  </div>
 
 <div class="ai-insights">
     <div id="ai-response"></div>
@@ -113,19 +104,17 @@
 
 <button id="pdf" class="submit wip">Export PDF</button>
 
-<img id="loading" class="loading" src="loading.gif">
+<img id="loading" class="loading" src="{{ url_for('static', filename='loading.gif') }}">
 <br>
 <p  class="pdf">Please Note: Export PDF Function in Development. Response loads in browser for now.</p>
 
-
 </div>
 
-</body>
+  </body>
 
-<script src="index.js"></script>
-<script src="map.js"></script>
-
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  <script src="{{ url_for('static', filename='js/index.js')}}"></script>
+  <script src="{{ url_for('static', filename='js/map.js')}}"></script>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 </html>
 
 
