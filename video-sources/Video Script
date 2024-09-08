@@ -1,0 +1,19 @@
+[PROBLEM & Introduction]
+Transport is an integral part of the connectivity of Victoria, with ongoing efforts to ensure everyone's safety on the roads. Organisations such as the DTP, VicRoads, VicPol and the Traffic Accident Commision (TAC) are doing a great job at preventing road fatalities, and we want to further support them with the best resources to continue with their work. 
+
+
+In spite of all the measures so far, in raw numbers, the road toll continues to increase per year by as much as 22%.(1) Our project, Halo, aims to create an easy-to-use tool to help fix this challenge. 
+
+[WHAT IS OUR SOLUTION?]
+HAiLO is our solution to help keep Victoria's roads safe. It's an AI web tool with an interactive map that utilizes datasets across many sectors to find the main contributing factors of road crashes and provide suggestions. These suggestions can be anything from who to target in a marketing campaign to which intersections need changing to reduce road risks. This increases efficiency & transparency of data by providing easy access to all relevant information in a user-friendly form.
+
+[DEMONSTRATION/EXAMPLE TO ILLUSTRATE POINT]
+For one of our case studies, we chose to focus on Bendigo. Bendigo is a city with a population of around 90 thousand people and we chose it because it had the highest number of crashes involving animals, thinking some of them might be wombats, however it turned out that most of them were kangaroos or cows. This brief was created by giving an AI data and asking it to identify the problem and a solution in executive brief form, as shown here, with a purpose, reccomendations, key information, risks, and a list of the datasets used to come to this conclusion. The generated briefs are available in the Github repository.
+
+(1) https://www.tac.vic.gov.au/road-safety/statistics/lives-lost-annual
+
+//target audience is public servants
+//main purpose of rpoject: show how ai + data = good
+//public servants like efficiency & better use of resources
+//transparency around data is important for building trust 
+//combining datasets creates advantage over using them by themselves
