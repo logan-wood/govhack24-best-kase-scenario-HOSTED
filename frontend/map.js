@@ -31,10 +31,12 @@ async function onSearchButtonClick() {
         const lat = parseFloat(element.LAT);
         const lng = parseFloat(element.LONG);
 
+console.log(element)
+
         if (!isNaN(lat) && !isNaN(lng)) {
             console.log(`Adding spot at (${lat}, ${lng})`)
             L.marker([lng, lat]).addTo(map)
-                .bindPopup('Information...', {autoPan: false})
+                .bindPopup(element.ACCIDENT_TYPE_DESC, {autoPan: false})
                 .openPopup();
             markers.push(L.marker([lat, lng]));
         } else {

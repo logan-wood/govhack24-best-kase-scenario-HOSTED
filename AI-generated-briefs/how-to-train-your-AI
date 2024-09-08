@@ -1,0 +1,32 @@
+
+
+# Series of prompts to get a good project brief 
+
+## Stage one: provide data 
+- Attached data: ACCIDENTS.csv (in our reduced data set, BENDIGO.csv) includes accident ID, basic data. We modified BENDIGO.csv to include the lat/long coordinates because LOCATION as a street address less useful when identifying clusters 
+- ACCIDENT_LOCATION includes the street address, helpful for identifying roads which are frequent offenders (or risk areas).
+
+
+## Stage two: identify a problem 
+
+possible prompts, not all used in order: 
+ 
+ - "Hi ChatGPT - please have a look at the attached file. It is public data containing road crash data from every accident in Victoria 2012 to 2023. Do you see any patterns in the data?" *nb introduce each aspect of the data one after another, e.g. "Please analyse the attached data about people affected by accidents. For accidents in [base area, e.g. Bendigo], do you notice any common factors amongs pedestrians who are affected by accidents?"
+
+ - "Please identify potential prevention strategies. Can you identify any measures that would have prevented specific accidents at this intersection?"
+ 
+ - "Do you notice any clusters or common factors among vehicles involved in accidents" (nb attach VEHICLE.csv to this question)
+ 
+ - 
+
+ 
+## Stage three: generate the brief
+ - "Please produce a PDF with these recommendations in executive brief format. In the executive brief, use two-line answers for your recommendations. Avoid using dot points. The recommendations on the first page should be short, concise sentences (25 words max). Please rank the key information from most important to least, and make the most important recommendations as key information point 1, through to least important.  Please identify costs or public relations risks associated with any reccommendations."
+ 
+
+## Potential intersecting data (that we didn't manage to get hold of)
+
+* preventable mortality (cardiac incidents in cars? car vs tree on purpose, mental health?) 
+* BAC levels, proximity to hotels and RSA (resp. service of alcohol) venues
+* Sunrise, sunset data (more accidents at sunset?) 
+* 

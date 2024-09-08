@@ -48,21 +48,21 @@
         </li>
 
 
-        <li><a href="#">Weather Conditions</a>
+        <li><a href="#">Light Conditions</a>
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Turning Left</label>
+            <label class="label" for="turning-left">Low Light</label>
           </div>
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Turning Left</label>
+            <label class="label" for="turning-left">Medium Light</label>
           </div>
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Turning Left</label>
+            <label class="label" for="turning-left">High Light</label>
           </div>
 
         </li>
@@ -71,27 +71,36 @@
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Turning Left</label>
+            <label class="label" for="turning-left">Morning</label>
           </div>
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Turning Left</label>
+            <label class="label" for="turning-left">Afternoon</label>
           </div>
 
           <div class="item">
             <input class="inline" type="checkbox">
-            <label class="label" for="turning-left">Driving Straight</label>
+            <label class="label" for="turning-left">Night</label>
           </div>
 
         </li>
+
+        <button class="search" onclick="onSearchButtonClick()">Search this area</button>
   
       </ul>
+
+      <div class="notes">
+        <p>Please Note: Filtering system in development. Search area for All Results on map viewport.</p>
+      </div>
+
+      
+
     </div>
   </div>
 
   <div id="map"></div>
-  <button onclick="onSearchButtonClick()">Search this area</button>
+  
   
 
 <div class="ai-insights">
