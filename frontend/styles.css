@@ -240,12 +240,31 @@ input[type=checkbox] {
   }
 
 #ai-response {
-  position: absolute;
-  top: 50px;
-  width: 800px;
-  height: 400px;
+  margin: auto;
+  padding: 20px;
+
+  top: 100px;
+  width: 600px;
   position: static;
-  background-color: white;
-  border-radius: 20px;
   z-index: 100;
+  color: #034486;
+  text-align: left;
+}
+
+.pdf  {
+  margin: 20px;
+  font-size: 12px;
+  opacity: 0.5;
+
+}
+
+.loading  {
+  height: 32px;
+  width: 32px;
+  vertical-align: middle;
+  display: none
+}
+
+#pdf  {
+  display: none;
 }
