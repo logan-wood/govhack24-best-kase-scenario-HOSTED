@@ -1,4 +1,4 @@
-const SERVER_DOMAIN = 'http://127.0.0.1:5000'
+const SERVER_DOMAIN = 'http://127.0.0.1:8000'
 
 var map; // to be initialized once DOM content is loaded
 var markers = [];

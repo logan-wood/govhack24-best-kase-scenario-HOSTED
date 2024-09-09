@@ -4,7 +4,6 @@ import json
 from .helper_functions import filter_by_coordinates
 from .llm import generate_batch_report
 
-
 app = Flask(__name__)
 
 CORS(app)
